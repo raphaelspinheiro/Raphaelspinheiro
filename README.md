@@ -2,7 +2,7 @@
 
 🎓 Estudante de Engenharia na UFBA e Ciência da Computação na UNIFACS.  
 💻 Apaixonado por Análise de Dados, Automação e Desenvolvimento.  
-📊 Experiência com Python, Power BI, Power Apps, Selenium, Excel, HTML, CSS e JavaScript.  
+📊 Experiência com Python, Power BI, SQL, Power Apps, Selenium, Excel, HTML, CSS e JavaScript.  
 
 ---
 
