@@ -8,7 +8,8 @@
 
 ### 🚀 Sobre mim  
 
-- 🔹 Desenvolvo soluções para automação de processos usando **Python e Selenium**.  
+- 🔹 Desenvolvo soluções para automação de processos usando **Python e Selenium**.
+- 🔹 Desenvolvo soluções para Processamentos e Tratamento de dados **ETL**.  
 - 🔹 Crio dashboards interativos e analíticos com **Power BI**.  
 - 🔹 Trabalho com **Front-end** usando **HTML, CSS e JavaScript**.  
 - 🔹 Experiência com **SharePoint, Power Automate e Power Apps**.  
