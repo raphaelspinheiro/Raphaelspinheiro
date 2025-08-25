@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Raphael!  
 
 🎓 Estudante de Engenharia na UFBA e Ciência da Computação na UNIFACS.  
-💻 Apaixonado por Análise de Dados, Automação e Desenvolvimento.  
+💻 Análise de Dados, Automação e Desenvolvimento.  
 📊 Experiência com Python, Power BI, SQL, Power Apps, Selenium, Excel, HTML, CSS e JavaScript.  
 
 ---
