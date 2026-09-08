@@ -1,20 +1,37 @@
 # 👋 Olá, eu sou o Raphael!  
 
-🎓 Estudante de Engenharia na UFBA e Ciência da Computação na UNIFACS.  
-💻 Análise de Dados, Automação e Desenvolvimento.  
-📊 Experiência com Python, Power BI, SQL, Power Apps, Selenium, Excel, HTML, CSS e JavaScript.  
+Analista de Dados com experiência no desenvolvimento de soluções analíticas nas áreas
+financeira, compliance, operações e setor público. Possui domínio em SQL, Python, Power
+BI e automação de processos, com forte atuação na transformação de fluxos manuais em
+sistemas escaláveis orientados por dados.
+
+Experiência na criação de dashboards e estruturas de reporting utilizadas por executivos,
+líderes de compliance e equipes do setor judiciário, incluindo projetos de automação que
+reduziram o tempo de geração de relatórios em mais de 99%. Capacidade de traduzir dados
+complexos em insights estratégicos para o negócio.  
 
 ---
 
 ### 🚀 Sobre mim  
 
-- 🔹 Desenvolvo soluções para automação de processos usando **Python e Selenium**.
-- 🔹 Desenvolvo soluções para Processamentos e Tratamento de dados **ETL**.  
-- 🔹 Crio dashboards interativos e analíticos com **Power BI**.
-- 🔹 Experiência com **SharePoint, Power Automate e Power Apps**.  
-- 🔹 Experiência com **Front-end** usando **HTML, CSS e JavaScript**.  
-- 🔹 Sempre aprendendo e buscando desafios!  
+- 🔹 Analytics & BI:
+  
+  SQL, Power BI, DAX, Metabase, Excel Avançado
+  
+- 🔹 Programação
 
+  Python (Pandas, Selenium), JavaScript
+  
+- 🔹 Dados & Automação
+
+  ETL Pipelines, Modelagem de Dados, Limpeza de Dados, Automação de Processos,Power
+Automate, Power Apps, SharePoint
+  
+- 🔹 Negócios & Comunicação
+
+  Relatórios Executivos, Análise de KPIs, Comunicação com Stakeholders, Colaboração
+entre áreas
+  
 ---
 
 ### 🛠️ Tecnologias & Ferramentas  
