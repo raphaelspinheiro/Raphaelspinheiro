@@ -14,20 +14,20 @@ complexos em insights estratégicos para o negócio.
 
 ### 🚀 Sobre mim  
 
-- 🔹 Analytics & BI:
+🔹 Analytics & BI:
   
   SQL, Power BI, DAX, Metabase, Excel Avançado
   
-- 🔹 Programação
+🔹 Programação
 
   Python (Pandas, Selenium), JavaScript
   
-- 🔹 Dados & Automação
+🔹 Dados & Automação
 
   ETL Pipelines, Modelagem de Dados, Limpeza de Dados, Automação de Processos,Power
 Automate, Power Apps, SharePoint
   
-- 🔹 Negócios & Comunicação
+🔹 Negócios & Comunicação
 
   Relatórios Executivos, Análise de KPIs, Comunicação com Stakeholders, Colaboração
 entre áreas
