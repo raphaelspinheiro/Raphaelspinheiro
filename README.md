@@ -12,7 +12,7 @@ complexos em insights estratégicos para o negócio.
 
 ---
 
-### 🚀 Sobre mim  
+###  Sobre mim  
 
 🔹 Analytics & BI:
   
