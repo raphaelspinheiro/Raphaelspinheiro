@@ -1,14 +1,14 @@
 # 👋 Olá, eu sou o Raphael!  
 
-Analista de Dados com experiência no desenvolvimento de soluções analíticas nas áreas
-financeira, compliance, operações e setor público. Possui domínio em SQL, Python, Power
-BI e automação de processos, com forte atuação na transformação de fluxos manuais em
-sistemas escaláveis orientados por dados.
+Analista de Dados com mais de 3 anos de experiência em finanças, operações, compliance e setor público. 
+Forte base em SQL, aplicada em análises de retenção, segmentação e reporting, além de 
+Python, Power BI e automação de processos para transformar fluxos manuais em sistemas escaláveis 
+orientados por dados.
 
-Experiência na criação de dashboards e estruturas de reporting utilizadas por executivos,
-líderes de compliance e equipes do setor judiciário, incluindo projetos de automação que
-reduziram o tempo de geração de relatórios em mais de 99%. Capacidade de traduzir dados
-complexos em insights estratégicos para o negócio.  
+Criou automações que reduziram a geração de relatórios de compliance de 2 dias para 15 minutos (-99,48%) 
+e dashboards que aumentaram em 55% a assertividade dos contatos do time de Growth, além de painéis 
+usados por executivos, líderes de compliance e equipes do setor judiciário. Traduz dados complexos 
+em insights estratégicos para o negócio.  
 
 ---
 
@@ -16,7 +16,7 @@ complexos em insights estratégicos para o negócio.
 
 🔹 Analytics & BI:
   
-  SQL, Power BI, DAX, Metabase, Excel Avançado
+  SQL (PostgreSQL), Power BI, DAX, Metabase, Excel Avançado
   
 🔹 Programação
 
@@ -24,7 +24,7 @@ complexos em insights estratégicos para o negócio.
   
 🔹 Dados & Automação
 
-  ETL Pipelines, Modelagem de Dados, Limpeza de Dados, Automação de Processos,Power
+  ETL Pipelines, Modelagem de Dados, Limpeza de Dados, Automação de Processos, Power
 Automate, Power Apps, SharePoint
   
 🔹 Negócios & Comunicação
@@ -36,7 +36,7 @@ entre áreas
 
 ### 🛠️ Tecnologias & Ferramentas  
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=database&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Automação](https://img.shields.io/badge/Automação-007ACC?style=for-the-badge&logo=automation&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) ![SQL](https://img.shields.io/badge/SQL%20(PostgreSQL)-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Automação](https://img.shields.io/badge/Automação-007ACC?style=for-the-badge&logo=automation&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 
 ---
 
